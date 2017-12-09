@@ -1,0 +1,6 @@
+Hello World 
+This is a text file for practice
+I hope to be able to read this in and parse it
+This is part of the first steps into data science 
+Being able to read in external soucres of data is the first step to learning and sorting that data
+Now lets write this file out
